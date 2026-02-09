@@ -127,3 +127,8 @@ repositories:
     type: git
     url: git@github.com:tier4/agnocast.git
     version: backport-jazzy-support-v2.1.2
+  # 番茄提供的ROS包
+  tomato_ros/driver/unicorecomm_gps:
+    type: git
+    url: git@github.com:tomato-ros/unicorecomm_gps.git
+    version: humble

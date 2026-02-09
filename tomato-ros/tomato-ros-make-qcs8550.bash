@@ -10,7 +10,7 @@ rm -rf $TOMATO_DEV_DIR/build \
        $HOME/autoware_tomato_community
 
 # 导入项目源码
-vcs import src < repositories/autoware.tomato-community.repos
+vcs import src < repositories/autoware-tomato-community.repos
 
 # 编译期间使用 fastrtps
 export RMW_IMPLEMENTATION=rmw_fastrtps_cpp
