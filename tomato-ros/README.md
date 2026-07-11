@@ -13,7 +13,7 @@ Autoware 番茄 ROS 机器人社区版是基于 Autoware 自动驾驶开源平�
 | 开发板型号 | 架构/核心 | 综合算力 | 适用场景 | 详细介绍 |
 | :-------- | :------- | :------- | :------ | :------ |
 | 犀牛派 X1 | ARM/QCS8550 | 48T |自动驾驶原型验证、机器人导航开发。 | https://tomato-ros.github.io/tomato-autoware-community/hardware/aidlux-x1/ |
-| J401 | ARM/Jetson Orin NX | -- |自动驾驶原型验证、机器人导航开发。 | 待更新。。。* |
+| J401 | ARM/Jetson Orin NX | -- |自动驾驶原型验证、机器人导航开发。 | 待更新。---- |
 
 ## 如何编译
 
